@@ -23,4 +23,4 @@ The setup is simple and WORTHHH IT!!!
 
 ### and et voilà, there is your cool notifier for an calm night of sleep.
 
-*~ For all those fellow buddies dealing with anxiety :nerd_face: ~*
+*For all those fellow buddies dealing with anxiety :nerd_face:*
