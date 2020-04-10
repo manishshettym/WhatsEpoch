@@ -17,7 +17,7 @@ The setup is simple and WORTHHH IT!!!
  ![alt text](https://twilio-cms-prod.s3.amazonaws.com/images/Selection_273.width-800.png)
 #### Step 3: Create a whatsapp sandbox on your twillio account and a WhatsApp contact for your notifications
  1. Go to the WhatsApp page in the Twilio Console and activate the sandbox.
- 2. You will be redirected to the page above which instructs you how to connect to your sandbox by sending a WhatsApp message through your device. In my case, I’m required to send join yourself-facing to +14155238886.
+ 2. You will be redirected to the page above which instructs you how to connect to your sandbox by sending a WhatsApp message through your device. In my case, I’m required to send "join yourself-facing" to +14155238886.
 #### Step4: Use [whatsapp_sender](https://github.com/ManishShettyM/WhatsEpoch/blob/master/whatsapp_sender.py) as a reference and add the necessary messages to your training file
 
 ### and et voilà, there is your cool notifier for a calm night of sleep.
