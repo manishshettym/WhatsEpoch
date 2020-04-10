@@ -21,6 +21,6 @@ The setup is simple and WORTHHH IT!!!
  2. You will be redirected to the page above which instructs you how to connect to your sandbox by sending a WhatsApp message through your device. In my case, I’m required to send join yourself-facing to +14155238886.
 #### Step4: Use [whatsapp_sender](https://github.com/ManishShettyM/WhatsEpoch/blob/master/whatsapp_sender.py) as a reference and add the necessary messages to your training file
 
-### and et voilà, there is your cool notifier for an calm night of sleep.
+### and et voilà, there is your cool notifier for a calm night of sleep.
 
 *For all those fellow buddies dealing with anxiety :nerd_face:*
