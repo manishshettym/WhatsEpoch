@@ -4,11 +4,11 @@ A WhatsApp Notification client for you long model training nights :night_with_st
 ![](demo.gif)
 
 My recent ventures into cutting edge deep learning models has also pulled me towards anxious nights of model training.
-Models like RESNET, BERT, Hierarchial Multi Task Learners etc took away large parts of the night. I even started keeping a loop
+Models like RESNET, BERT, Hierarchial Multi Task Learners etc ate away a ton of time, just staring at the screen. I even started keeping a loop
 of alarms to get up. But the worst happened when I got up in the morning to see that my SSH session had crashed. Now that is NOT
 a good start to a day.
 
-So I turned towards twilio and made this simple pythin wrapper to use a twilio account to send notifications on my whatsapp number :clinking_glasses:
+So I turned towards twilio and made this simple python wrapper to use a twilio account to send notifications on my whatsapp number :clinking_glasses:
 
 
 The setup is simple and WORTHHH IT!!!
